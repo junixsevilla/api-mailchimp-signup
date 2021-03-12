@@ -1,0 +1,23 @@
+{
+  "name": "mailchimp-signup",
+  "version": "1.0.0",
+  "description": "save user input to mailchimp audience.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junixsevilla/api-mailchimp-signup.git"
+  },
+  "author": "Junix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junixsevilla/api-mailchimp-signup/issues"
+  },
+  "homepage": "https://github.com/junixsevilla/api-mailchimp-signup#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
